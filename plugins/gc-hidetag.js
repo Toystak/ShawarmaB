@@ -83,9 +83,9 @@ let handler = async (m, { conn, text, participants, isOwner, isAdmin }) => {
                         thumbnailUrl:
                             "https://telegra.ph/file/7bbd1e7b5e566eb98cb48.jpg",
                         mediaUrl:
-                            "https://whatsapp.com/channel/0029VadpJ1YGZNCuFznsSI3w",
+                            "https://whatsapp.com/channel/0029VanZjKLKGGGQNpGyhs0w",
                         sourceUrl:
-                            "https://whatsapp.com/channel/0029VadpJ1YGZNCuFznsSI3w",
+                            "https://whatsapp.com/channel/0029VanZjKLKGGGQNpGyhs0w",
                     },
                 },
             },
